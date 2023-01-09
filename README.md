@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @isTHS 
-- 🌱 I’m currently learning: Front-End - HTML | CSS | JS | Python |
+- 🌱 I’m currently learning: Front-End - HTML | CSS | JS | Git |
 - 📫 How to reach me: tsantos9200@gmail.com
