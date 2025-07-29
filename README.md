@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Thiago Santos, Desenvolvedor Front-End.
+- 👋 Hi, I’m Thiago Santos
